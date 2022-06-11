@@ -4,3 +4,6 @@
 [submodule "Equalizer"]
 	path = Equalizer
 	url = https://github.com/Heba-Elbeshbeshy/Equalizer
+[submodule "Task3_ImageMixer"]
+	path = Task3_ImageMixer
+	url = https://github.com/Heba-Elbeshbeshy/Task3_ImageMixer
