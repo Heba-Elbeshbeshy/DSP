@@ -7,3 +7,6 @@
 [submodule "Task3_ImageMixer"]
 	path = Task3_ImageMixer
 	url = https://github.com/Heba-Elbeshbeshy/Task3_ImageMixer
+[submodule "Fingerprint-Shazam-like-app"]
+	path = Fingerprint-Shazam-like-app
+	url = https://github.com/walaasalah55/Fingerprint-Shazam-like-app
