@@ -1,3 +1,6 @@
 [submodule "Signal-Viewer"]
 	path = Signal-Viewer
 	url = https://github.com/Heba-Elbeshbeshy/Signal-Viewer
+[submodule "Equalizer"]
+	path = Equalizer
+	url = https://github.com/Heba-Elbeshbeshy/Equalizer
